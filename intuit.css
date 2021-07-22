@@ -370,8 +370,8 @@ footer {
     #main-section {
         display: flex;
         flex-direction: column;
-        width: 60vw;
-        min-width: 60vw;
+        width: 30vw;
+        min-width: 30vw;
         align-items: center; 
         margin-top: 1vw;
     }
